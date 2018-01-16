@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d11625d1555d1b40a01cfeff958fa71
+labels:
+- Road
+- Tarmac
+- Asphalt
+- Sidewalk
+- Driveway
+timeCreated: 1450101199
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

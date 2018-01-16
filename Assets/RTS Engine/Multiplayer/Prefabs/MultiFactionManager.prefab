@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &137282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 453922}
+  - component: {fileID: 11486442}
+  - component: {fileID: 114222545812468766}
+  m_Layer: 0
+  m_Name: MultiFactionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &453922
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137282}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 132.57501, y: 3.9737496, z: 85.42}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11486442
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 170
+    i1: 152
+    i2: 121
+    i3: 18
+    i4: 121
+    i5: 238
+    i6: 47
+    i7: 100
+    i8: 90
+    i9: 226
+    i10: 7
+    i11: 221
+    i12: 64
+    i13: 49
+    i14: 150
+    i15: 150
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 137282}
+  m_IsPrefabParent: 1
+--- !u!114 &114222545812468766
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb8164412be93e142a3312ff76c56d7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FactionID: 0
+  CapitalBuilding: {fileID: 188834, guid: 9081df85ed6745c40854488c7dd2b688, type: 2}
+  Buildings:
+  - {fileID: 188834, guid: 9081df85ed6745c40854488c7dd2b688, type: 2}
+  - {fileID: 145894, guid: cd99eea5e41729f4bad27fce1fcf8711, type: 2}
+  - {fileID: 179828, guid: c1d5148c6d0ed4047882468553ecea7f, type: 2}
+  - {fileID: 122680, guid: a1da93c984ce92c449483dda8803420c, type: 2}
+  - {fileID: 1228798490099632, guid: 8a7305b6757564f4594028de63c49252, type: 2}
+  - {fileID: 1438020799380894, guid: 84d0ec1a66c736c45bb942e645ffe4fb, type: 2}
+  - {fileID: 1651655672968022, guid: b57c70054e9d69f41808e2cf27440fb1, type: 2}
+  - {fileID: 1166819989235726, guid: fa70e56aff74d4e4091da7f79004659a, type: 2}
+  Units:
+  - {fileID: 126258, guid: 03d866f91a6f12f4299c874e2a19a3a0, type: 2}
+  - {fileID: 1351375238302358, guid: 2b44509edd9b0ae41b3db0cf6ad1ac6e, type: 2}
+  - {fileID: 1587449670352496, guid: 7c798cf437fd7724481e7cb079ec65c5, type: 2}
+  - {fileID: 117320, guid: fd6f74aadceed0445a58afeeabd85298, type: 2}
+  - {fileID: 142526, guid: 956766f6492bd5d4e97ad9f07d0d26cc, type: 2}
+  - {fileID: 1852235379901452, guid: 00395b664667309458f9f1ec919f4078, type: 2}
+  - {fileID: 1158943221867548, guid: 6396800bd790e994dafcc3324741994a, type: 2}
+  - {fileID: 1801551093659716, guid: 6578a17757152d04094c3dfaf773c3b3, type: 2}
+  InputActions: []
+  InputMvtUnits: []
+  InputActionTimer: 0
+  CanSendInput: 1
+  LockstepCycleRange: {x: 0.2, y: 0.4}
+  DestroyObjDelay: 1
+  ReceivedActions: 0
+  CanPerformActions: 0
+  SnapDistance: 3
+  AllClientsReady: 0
+  ClientsReady: 0
+  CommandsSent: 0
+  ClientResponseLimit: 0.6
+  ClientResponseLimitRange: {x: 1, y: 1.5}
+  ClientResponseTimer: 0
+  NoResponseTimesToTest: 5
+  NetTestingRepeatTimes: 10

@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 4f3391e0e4c9527449b03f1aaf611a50
+timeCreated: 1494671229
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chin0
+    100002: chin1
+    100004: chin2
+    100006: ex
+    100008: frame
+    100010: fuse
+    100012: glass
+    100014: Group001
+    100016: gun
+    100018: //RootNode
+    100020: hub
+    100022: hump0
+    100024: hump1
+    100026: hump2
+    100028: int
+    100030: lskid
+    100032: lstab0
+    100034: lstab1
+    100036: lwing0
+    100038: lwing1
+    100040: mrotor
+    100042: Plane001
+    100044: rskid
+    100046: rstab0
+    100048: rstab1
+    100050: rwing0
+    100052: rwing1
+    100054: shaft
+    100056: trotor
+    100058: VRayLight001
+    100060: VRayLight002
+    100062: VRayLight003
+    100064: VRayLight004
+    100066: VRayPhysicalCamera001
+    100068: VRayPhysicalCamera001.Target
+    400000: chin0
+    400002: chin1
+    400004: chin2
+    400006: ex
+    400008: frame
+    400010: fuse
+    400012: glass
+    400014: Group001
+    400016: gun
+    400018: //RootNode
+    400020: hub
+    400022: hump0
+    400024: hump1
+    400026: hump2
+    400028: int
+    400030: lskid
+    400032: lstab0
+    400034: lstab1
+    400036: lwing0
+    400038: lwing1
+    400040: mrotor
+    400042: Plane001
+    400044: rskid
+    400046: rstab0
+    400048: rstab1
+    400050: rwing0
+    400052: rwing1
+    400054: shaft
+    400056: trotor
+    400058: VRayLight001
+    400060: VRayLight002
+    400062: VRayLight003
+    400064: VRayLight004
+    400066: VRayPhysicalCamera001
+    400068: VRayPhysicalCamera001.Target
+    2300000: chin0
+    2300002: chin1
+    2300004: chin2
+    2300006: ex
+    2300008: frame
+    2300010: fuse
+    2300012: glass
+    2300014: gun
+    2300016: hub
+    2300018: hump0
+    2300020: hump1
+    2300022: hump2
+    2300024: int
+    2300026: lskid
+    2300028: lstab0
+    2300030: lstab1
+    2300032: lwing0
+    2300034: lwing1
+    2300036: mrotor
+    2300038: Plane001
+    2300040: rskid
+    2300042: rstab0
+    2300044: rstab1
+    2300046: rwing0
+    2300048: rwing1
+    2300050: shaft
+    2300052: trotor
+    3300000: chin0
+    3300002: chin1
+    3300004: chin2
+    3300006: ex
+    3300008: frame
+    3300010: fuse
+    3300012: glass
+    3300014: gun
+    3300016: hub
+    3300018: hump0
+    3300020: hump1
+    3300022: hump2
+    3300024: int
+    3300026: lskid
+    3300028: lstab0
+    3300030: lstab1
+    3300032: lwing0
+    3300034: lwing1
+    3300036: mrotor
+    3300038: Plane001
+    3300040: rskid
+    3300042: rstab0
+    3300044: rstab1
+    3300046: rwing0
+    3300048: rwing1
+    3300050: shaft
+    3300052: trotor
+    4300000: Plane001
+    4300002: chin2
+    4300004: chin1
+    4300006: chin0
+    4300008: gun
+    4300010: rskid
+    4300012: lskid
+    4300014: hub
+    4300016: trotor
+    4300018: mrotor
+    4300020: shaft
+    4300022: lstab1
+    4300024: lstab0
+    4300026: rstab1
+    4300028: rstab0
+    4300030: int
+    4300032: hump2
+    4300034: hump1
+    4300036: hump0
+    4300038: frame
+    4300040: glass
+    4300042: fuse
+    4300044: ex
+    4300046: lwing1
+    4300048: lwing0
+    4300050: rwing1
+    4300052: rwing0
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
